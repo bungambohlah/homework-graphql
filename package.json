@@ -1,0 +1,19 @@
+{
+  "name": "homework-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Afif Abdillah Jusuf",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-boost": "^0.1.10",
+    "apollo-server-express": "^2.0.0-rc.12",
+    "express": "^4.16.3",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.9.2",
+    "knex": "^0.15.2",
+    "lodash": "^4.17.10",
+    "nodemon": "^1.18.3",
+    "objection": "^1.2.0",
+    "react-apollo": "^2.1.9"
+  }
+}
